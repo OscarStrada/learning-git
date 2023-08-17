@@ -19,3 +19,7 @@
 - git rank = "show all commits of entire users"
 - git cnb = "create new branch"
 - git aa = "add all files to staged from modified state and create a commit, **do not work for new files**"
+- git reference = "rev-parse HEAD: get reference number of HEAD"
+- git symbolic = "symbolic-ref HEAD: show branch reference of HEAD"
+- git sr = "undo last commit, **only works if you have not push to a remote repo** and keep changes"
+- git hr = "undo last commit, **only works if you have not push to a remote repo**"
