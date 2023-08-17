@@ -8,12 +8,12 @@
   - -d delete all files
   - -f force to delete all files
   - -1 ask you before to delete the files
-- git co = "do a commit"
-- git br = "show all local branches"
+- git co = "equal to commit"
+- git br = "equal to branch"
 - git branches = "show all branches (remote and local)"
 - git l1 = "show logs on oneline"
 - git last = "show last commit"
-- git ch = "do a checkout"
+- git ch = "equal to checkout"
 - git reset = ""
 - git graph = "show a graph of all branch"
 - git rank = "show all commits of entire users"
@@ -23,3 +23,4 @@
 - git symbolic = "symbolic-ref HEAD: show branch reference of HEAD"
 - git sr = "undo last commit, **only works if you have not push to a remote repo** and keep changes"
 - git hr = "undo last commit, **only works if you have not push to a remote repo**"
+- git cco = "change last commit, could be just the message or add more file **only works if you have not push to a remote repo**"
