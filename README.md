@@ -11,6 +11,7 @@
 - git co = "equal to commit"
 - git br = "equal to branch"
 - git sw = "equal to switch"
+- git db = "delete a branch"
 - git sbr = "show all branches sorted by date"
 - git branches = "show all branches (remote and local)"
 - git l1 = "show logs on oneline"
